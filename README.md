@@ -76,10 +76,10 @@ endmodule
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
-![image](https://github.com/user-attachments/assets/ffcb4e98-c587-4f39-bb5d-a6a01c82873e)
-
-**TIMING DIGRAMS FOR FLIP FLOPS**
 ![image](https://github.com/user-attachments/assets/effc3c18-5c6e-4c66-b22c-67a0ca917c4f)
 
+**TIMING DIGRAMS FOR FLIP FLOPS**
+
+![image](https://github.com/user-attachments/assets/ffcb4e98-c587-4f39-bb5d-a6a01c82873e)
 **RESULTS**
 Thus the flips flop designed and the truth tables is verified using quartus software.
